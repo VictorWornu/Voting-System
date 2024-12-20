@@ -1,0 +1,2644 @@
+body {
+	font-family: Lato;
+	background-color: #cfe2ff;
+}
+
+.navbar {
+	background-color: #ffffff;
+}
+
+.top-left-div {}
+
+.top-div {
+	display: flex;
+	justify-content: center;
+}
+
+.cursive-text {
+	padding-top: 120px;
+	font-family: "Dancing Script";
+	color: #bf0b30;
+	font-size: 2rem;
+}
+
+.block-text-top-header{
+	font-family: "Archivo Black", sans-serif;
+	font-size: 3rem;
+}
+
+.header-ptag {
+	font-size: 120%;
+}
+
+.join-button {
+	background-color: #222f64;
+	border: none;
+   	outline: none;
+   	color: #ffffff;
+   	padding-top: 20px;
+   	padding-bottom: 20px;
+   	padding-left: 40px;
+   	padding-right: 40px;
+   	transition: all 1s;
+   	font-size: 120%;
+   	height: 90px;
+}
+
+.join-button:hover {
+	background-color: #bf0b30;
+}
+
+.col-1 {
+	padding-left: 70px;
+}
+
+.picture-container {
+	padding-top: 60px;
+}
+
+.page2-header {
+	color: #bf0b30;
+	font-size: 120%;
+	padding-top: 200px;
+	text-align: center;
+}
+
+.page2-header-line {
+/*	color: #bf0b30;*/
+	width: 80px;
+    height: 0px;
+    border: none;
+    border-top: 4px solid #bf0b30;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.page2-header2 {
+	padding-top: 30px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.container1 {
+	border: 1px solid #ccc2c2;
+	padding: 30px;
+	width: 350px;
+	text-align: center;
+	transition: all 1s;
+}
+
+.container1:hover {
+	border-color: #bf0b30;
+
+	.container1-img{
+		padding-bottom: 0px;
+		padding-top: 20px;
+	}
+}
+
+.container1-img {
+	padding: 10px;
+	transition: all 1s;
+}
+
+.container1-header {
+	padding: 10px;
+}
+
+.container1-text {
+	color: gray;
+}
+
+.detail-button {
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	transition: all 1s;
+}
+
+.detail-button:hover {
+	background-color: #bf0b30;
+	color: #ffffff;
+}
+
+.container2 {
+	border: 1px solid #ccc2c2;
+	padding: 30px;
+	width: 350px;
+	text-align: center;
+	transition: all 1s;
+}
+
+.container2:hover {
+	border-color: #bf0b30;
+
+	.container2-img{
+		padding-bottom: 0px;
+		padding-top: 20px;
+	}
+}
+
+.container2-img {
+	padding: 10px;
+	transition: all 1s;
+}
+
+.container2-header {
+	padding: 10px;
+}
+
+.container2-text {
+	color: gray;
+}
+
+.detail-button {
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	transition: all 1s;
+}
+
+.detail-button:hover {
+	background-color: #bf0b30;
+	color: #ffffff;
+}
+
+.container3 {
+	border: 1px solid #ccc2c2;
+	padding: 30px;
+	width: 350px;
+	text-align: center;
+	transition: all 1s;
+}
+
+.container3:hover {
+	border-color: #bf0b30;
+
+	.container3-img{
+		padding-bottom: 0px;
+		padding-top: 20px;
+	}
+}
+
+.container3-img {
+	padding: 10px;
+	transition: all 1s;
+}
+
+.container3-header {
+	padding: 10px;
+}
+
+.container3-text {
+	color: gray;
+}
+
+.detail-button {
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	transition: all 1s;
+}
+
+.detail-button:hover {
+	background-color: #bf0b30;
+	color: #ffffff;
+}
+
+.containers {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
+	justify-content: center;
+}
+
+.banner {
+	margin-top: 150px;
+	margin-left: 180px;
+	margin-right: 180px;
+	margin-bottom: 50px;
+	background-image: linear-gradient(to right, #262e62, #bf0b30);
+	display: flex;
+	align-items: center;
+	height: 180px;
+	position: relative;
+	padding: 30px;
+}
+
+.banner-img{
+	position: absolute;
+	bottom: 0;
+	right: 23%;
+}
+
+.banner-header {
+	color: white;
+}
+
+.banner-button {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	height: 50px;
+	font-size: 110%;
+	position: absolute;
+	top: auto;
+	right: 10%;
+	border: none;
+	transition: all 1s;
+}
+
+.banner-button:hover {
+	color: white;
+	background-color: #2f3d90;
+}
+
+.page3-header1{
+	color: #bf0b30;
+/*	margin-left: 40px;*/
+}
+
+.page3-header-line {
+	width: 80px;
+    height: 0px;
+    border: none;
+    border-top: 3px solid #bf0b30;
+    border-radius: 8px;
+    float: start;
+/*    margin-left: 40px;*/
+}
+
+.page3-header2 {
+/*	margin-left: 40px;*/
+	font-family: "Archivo Black";
+}
+
+.page3-container {
+	display: flex;
+	background-color: #f5f7ff;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	justify-content: center;
+}
+
+.page3-text {
+	color: #282828;
+	font-size: 105%;
+}
+
+.page3-text2 {
+	color: #bf0b30;
+	font-size: 150%;
+	font-family: "Archivo Black";
+}
+
+.page3-text-span {
+	color: black;
+	font-family: "Archivo Black";
+	margin-left: 27px;
+}
+
+.page3-text3 {
+	color: #222f64;
+	font-family: "Dancing Script";
+	font-size: 190%;
+	align-items: center;
+	padding-top: 10px;
+}
+
+
+.page3-text3-span {
+	padding-left: 20px;
+}
+
+.sub-div {
+	display: flex;
+	gap: 50px;
+}
+
+.page3-containers {
+	background-color: #f5f7ff;	
+	display: flex;
+	gap: 40px;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding-bottom: 100px;
+}
+
+.mini-container1 {
+	background-color: #ffffff;
+	text-align: center;
+	width: 250px;
+	padding: 30px;
+	font-family: Lato;
+	transition: all;
+	border: 3px solid #ffffff;
+}
+
+.mini-container1:hover {
+	border-bottom: 3px solid #bf0b30;
+	cursor: pointer;
+}
+
+.mini-container1-quantity {
+	color: #2e2e2e;
+	font-family: Lato;
+}
+
+.mini-container1-img {
+	margin-bottom: 20px;
+}
+
+.mini-container2 {
+	background-color: #ffffff;
+	text-align: center;
+	width: 250px;
+	padding: 30px;
+	font-family: Lato;
+	transition: all;
+	border: 3px solid #ffffff;
+}
+
+.mini-container2:hover {
+	border-bottom: 3px solid #bf0b30;
+	cursor: pointer;
+}
+
+.mini-container2-quantity {
+	color: #2e2e2e;
+	font-family: Lato;
+}
+
+.mini-container2-img {
+	margin-bottom: 20px;
+}
+
+.mini-container3 {
+	background-color: #ffffff;
+	text-align: center;
+	width: 250px;
+	padding: 30px;
+	font-family: Lato;
+	transition: all;
+	border: 3px solid #ffffff;
+}
+
+.mini-container3:hover {
+	border-bottom: 3px solid #bf0b30;
+	cursor: pointer;
+}
+
+.mini-container3-quantity {
+	color: #2e2e2e;
+	font-family: Lato;
+}
+
+.mini-container3-img {
+	margin-bottom: 20px;
+}
+
+.mini-container4 {
+	background-color: #ffffff;
+	text-align: center;
+	width: 250px;
+	padding: 30px;
+	font-family: Lato;
+	transition: all;
+	border: 3px solid #ffffff;
+}
+
+.mini-container4:hover {
+	border-bottom: 3px solid #bf0b30;
+	cursor: pointer;
+}
+
+.mini-container4-quantity {
+	color: #2e2e2e;
+	font-family: Lato;
+}
+
+.mini-container4-img {
+	margin-bottom: 20px;
+}
+
+.banner2 {
+	background: url("banner2-background.jpg"), linear-gradient(to bottom, #262e62, #bf0b30);
+	height: 564px;
+	background-blend-mode: screen, difference, lighten;
+	text-align: center;
+	padding-top: 120px;
+	margin-bottom: 150px;
+}
+
+.banner2-header1 {
+	color: #ffffff;
+	font-size: 120%;
+}
+
+.white-hr {
+	width: 80px;
+    height: 0px;
+    border: none;
+    border-top: 4px solid #ffffff;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.banner2-header2 {
+	color: #ffffff;
+	font-family: "Archivo Black";
+	margin-bottom: 40px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.video-player {
+	transition: all 1s;
+}
+
+.video-player:hover{	
+	cursor: pointer;
+	transform: scale(1.2);
+}
+
+.navbar-nav {
+	gap: 50px;
+	font-size: 150%;
+}
+
+.unihez-logo {
+	padding-right: 200px;
+}
+
+.nav-text {
+	transition: all;
+}
+
+.nav-text:hover {
+	color: #ae0808;
+}
+
+footer {
+	display: flex;
+	gap: 70px;
+	margin: auto;
+	justify-content: center;
+	margin-bottom: 60px;
+}
+
+.footer-hr {
+	width: 70px;
+    height: 0px;
+    border: none;
+    border-radius: 8px;
+    border-top: 4px solid #4d0000;	
+    margin-right: auto;
+}
+
+ .footer-headers {
+ 	font-family: "Archivo Black";
+}
+
+.column-li{
+ 	color: #424242;
+ 	line-height: 40px;
+ 	list-style: none;
+}
+     
+.column-li::before{ 
+    content: "\00BB"; 
+}
+
+.unihez-logo-footer {
+ 	margin-bottom: 50px;
+ }
+
+.column {
+	text-align: left;
+ }
+
+.column1 {
+	padding-right: 120px;
+}
+
+.footer-column1-text1 {
+	padding-bottom: 50px;
+}
+
+.column-li-text {
+	transition: all;
+}
+
+.column-li-text:hover {
+	cursor: pointer;
+	color: #950033;
+}
+
+.footer-column1-text2 {
+	transition: all;
+}
+
+.footer-column1-text2:hover {
+	cursor: pointer;
+	color: #950033;
+}
+
+@media screen and (max-width: 1200px) {
+	.block-text-top-header{
+		font-family: "Archivo Black", sans-serif;
+		font-size: 220%;
+	}
+	.header-ptag {
+		font-size: 100%;
+	}
+	.container1 {
+		border: 1px solid #ccc2c2;
+		padding: 30px;
+		width: 300px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container1:hover {
+		border-color: #bf0b30;
+
+		.container1-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container1-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container1-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+
+	.container1-text {
+		color: gray;
+		font-size: 90%;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.container2 {
+		border: 1px solid #ccc2c2;
+		padding: 30px;
+		width: 300px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container2:hover {
+		border-color: #bf0b30;
+
+		.container2-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container2-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container2-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+
+	.container2-text {
+		color: gray;
+		font-size: 90%;
+		padding-bottom: 20px;
+	}
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.container3 {
+		border: 1px solid #ccc2c2;
+		padding: 30px;
+		width: 300px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container3:hover {
+		border-color: #bf0b30;
+
+		.container3-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container3-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container3-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+
+	.container3-text {
+		color: gray;
+		font-size: 90%;
+		padding-bottom: 20px;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.containers {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 30px;
+		justify-content: center;
+	}
+	.banner {
+		margin-top: 150px;
+		margin-left: 60px;
+		margin-right: 60px;
+		margin-bottom: 50px;
+		background-image: linear-gradient(to right, #262e62, #bf0b30);
+		display: flex;
+		align-items: center;
+		height: 180px;
+		position: relative;
+		padding: 20px;
+	}
+
+	.banner-img{
+		position: absolute;
+		bottom: 0;
+		right: 21%;
+		width: 220px;
+		height: 220px;
+	}
+
+	.banner-header {
+		color: white;
+		font-size: 130%;
+	}
+
+	.banner-button {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 25px;
+		padding-right: 25px;
+		height: 50px;
+		font-size: 110%;
+		position: absolute;
+		top: auto;
+		right: 5%;
+		border: none;
+		transition: all 1s;
+	}
+
+	.banner-button:hover {
+		color: white;
+		background-color: #2f3d90;
+	}
+	.page3-containers {
+		background-color: #f5f7ff;	
+		display: flex;
+/*		gap: 40px;*/
+		justify-content: center;
+		flex-wrap: wrap;
+		padding-bottom: 100px;
+	}
+
+	.mini-container1 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 200px;
+		padding: 30px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+
+	.mini-container1:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+
+	.mini-container1-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+
+	.mini-container1-img {
+		margin-bottom: 20px;
+	}
+
+	.mini-container2 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 200px;
+		padding: 30px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+
+	.mini-container2:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+
+	.mini-container2-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+
+	.mini-container2-img {
+		margin-bottom: 20px;
+	}
+	.mini-container3 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 200px;
+		padding: 30px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+
+	.mini-container3:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+
+	.mini-container3-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+
+	.mini-container3-img {
+		margin-bottom: 20px;
+	}
+
+	.mini-container4 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 200px;
+		padding: 30px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+
+	.mini-container4:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+
+	.mini-container4-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+
+	.mini-container4-img {
+		margin-bottom: 20px;
+	}
+	footer {
+		display: flex;
+		gap: 70px;
+		margin: auto;
+		justify-content: center;
+		margin-bottom: 60px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	body{
+		position: relative;
+		background-color: #cfe2ff;
+	}
+	.unihez-logo-nav{
+		width: 150px;
+		height: 50px;
+	}
+	.container-fluid {
+		display: flex;
+	}
+	.navbar-toggler {
+		position: absolute;
+		top: 5%;
+		right: 0;
+	}
+	.top-div {
+		display: flex;
+		margin-top: 40px;
+	}
+	.top-left-div {
+		text-align: left;
+	}
+	.block-text-top-header{
+		font-family: "Archivo Black", sans-serif;
+		font-size: 200%;
+	}
+	.header-ptag{
+		font-size: 90%;
+	}
+	.picture-container{}
+	.bg-img{
+		width: 300px;
+		height: 230px;
+		padding-left: 0px;
+	}
+	.cursive-text {
+	padding-top: 10px;
+	font-family: "Dancing Script";
+	color: #bf0b30;
+	font-size: 140%;
+	}
+	.join-button {
+		background-color: #222f64;
+		border: none;
+	   	outline: none;
+	   	color: #ffffff;
+	   	padding-top: 20px;
+	   	padding-bottom: 20px;
+	   	padding-left: 40px;
+	   	padding-right: 40px;
+	   	transition: all 1s;
+	   	font-size: 100%;
+	   	height: 60px;
+	}
+	.page2-header{
+		color: #bf0b30;
+		font-size: 120%;
+		padding-top: 30px;
+		text-align: center;
+	}
+	.container1{
+		width: 200px;
+		height: 470px;
+	}
+	.container2{
+		width: 200px;
+		height: 470px;
+	}
+	.container3{
+		width: 200px;
+		height: 470px;
+	}
+	.containers {
+		display: flex;
+	}
+	.container1-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+	.container1-text {
+		color: gray;
+		font-size: 100%;
+		margin-bottom: 30px;
+	}
+	.container2-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+	.container2-text {
+		color: gray;
+		font-size: 100%;
+	}
+	.container3-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+	.container3-text {
+		color: gray;
+		font-size: 100%;
+		margin-bottom: 40px;
+	}
+	.banner {
+		margin-top: 150px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 50px;
+		background-image: linear-gradient(to right, #262e62, #bf0b30);
+		display: flex;
+		align-items: center;
+		height: 180px;
+		position: relative;
+		padding: 30px;
+	}
+
+	.banner-img{
+		position: absolute;
+		height: 160px;
+		width: 160px;
+		bottom: 0;
+		right: 29%;
+	}
+
+	.banner-header {
+		color: white;
+		font-size: 120%;
+	}
+
+	.banner-button {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		height: 50px;
+		font-size: 90%;
+		position: absolute;
+		top: auto;
+		right: 10%;
+		border: none;
+		transition: all 1s;
+	}
+
+	.banner-button:hover {
+		color: white;
+		background-color: #2f3d90;
+	}
+	.page3-header1{
+		color: #bf0b30;
+	/*	margin-left: 40px;*/
+	}
+
+	.page3-header-line {
+		width: 80px;
+	    height: 0px;
+	    border: none;
+	    border-top: 3px solid #bf0b30;
+	    border-radius: 8px;
+	    float: start;
+	/*    margin-left: 40px;*/
+	}
+
+	.page3-header2 {
+	/*	margin-left: 40px;*/
+		font-family: "Archivo Black";
+	}
+
+	.page3-container {
+		display: flex;
+		background-color: #f5f7ff;
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 100px;
+		padding-bottom: 50px;
+		justify-content: center;
+	}
+	.page3-right-div{
+		position: relative;
+		padding-top: 130px;
+	}
+	.page3-text {
+		color: #282828;
+		font-size: 105%;
+	}
+	.page3-text2 {
+		color: #bf0b30;
+		font-size: 150%;
+		font-family: "Archivo Black";
+	}
+	.page3-text-span {
+		color: black;
+		font-family: "Archivo Black";
+		margin-left: 27px;
+	}
+	.page3-text3 {
+		color: #222f64;
+		font-family: "Dancing Script";
+		font-size: 190%;
+		align-items: center;
+		padding-top: 10px;
+	}
+	.page3-text3-span {
+		padding-left: 20px;
+	}
+	.sub-div {
+		display: flex;
+		gap: 50px;
+	}
+	.page3-containers {
+		background-color: #f5f7ff;	
+		display: flex;
+		justify-content: center;
+		padding-bottom: 100px;
+	}
+	.page3-img{
+		height: 250px;
+		width: 250px;
+	}
+	.mini-container1 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container1:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container1-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container1-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;
+	}
+	.mini-container2 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container2:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container2-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container2-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;		
+	}
+	.mini-container3 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container3:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container3-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container3-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;		
+	}
+	.mini-container4 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container4:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container4-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container4-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;		
+	}
+	.banner2 {
+		background: url("banner2-background.jpg"), linear-gradient(to bottom, #262e62, #bf0b30);
+		height: 400px;
+		background-blend-mode: screen, difference, lighten;
+		text-align: center;
+		padding-top: 60px;
+		margin-bottom: 90px;
+		color: lightgray;
+	}
+	footer {
+		display: flex;
+		gap: 30px;
+		margin: auto;
+		justify-content: center;
+		margin-bottom: 60px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.footer-hr {
+		width: 70px;
+	    height: 0px;
+	    border: none;
+	    border-radius: 8px;
+	    border-top: 4px solid #4d0000;	
+	    margin-right: auto;
+	}
+
+	 .footer-headers {
+	 	font-family: "Archivo Black";
+	}
+
+	.column-li{
+	 	color: #424242;
+	 	line-height: 40px;
+	 	list-style: none;
+	}
+	     
+	.column-li::before{ 
+	    content: "\00BB"; 
+	}
+
+	.unihez-logo-footer {
+	 	margin-bottom: 50px;
+	 }
+
+	.column {
+		text-align: left;
+	 }
+
+	.column1 {
+		padding-right: 0px;
+	}
+
+	.footer-column1-text1 {
+		padding-bottom: 50px;
+	}
+
+	.column-li-text {
+		transition: all;
+	}
+
+	.column-li-text:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+
+	.footer-column1-text2 {
+		transition: all;
+	}
+
+	.footer-column1-text2:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+	.navbar-nav{
+		margin-bottom: 10px !important;
+		font-size: 100%;
+		gap: 10px;
+	}
+}
+
+
+@media screen and (max-width: 768px) {
+	body{
+		position: relative;
+		background-color: #cfe2ff;
+	}
+	.unihez-logo-nav{
+		width: 150px;
+		height: 50px;
+	}
+	.container-fluid {
+		display: flex;
+	}
+	.navbar-toggler {
+		position: absolute;
+		top: 5%;
+		right: 0;
+	}
+	.top-div {
+		display: flex;
+		margin-top: 40px;
+	}
+	.top-left-div {
+		text-align: left;
+	}
+	.block-text-top-header{
+		font-family: "Archivo Black", sans-serif;
+		font-size: 200%;
+	}
+	.header-ptag{
+		font-size: 90%;
+	}
+	.picture-container{}
+	.bg-img{
+		width: 330px;
+		height: 250px;
+		padding-left: 0px;
+	}
+	.cursive-text {
+	padding-top: 10px;
+	font-family: "Dancing Script";
+	color: #bf0b30;
+	font-size: 140%;
+	}
+	.join-button {
+		background-color: #222f64;
+		border: none;
+	   	outline: none;
+	   	color: #ffffff;
+	   	padding-top: 20px;
+	   	padding-bottom: 20px;
+	   	padding-left: 40px;
+	   	padding-right: 40px;
+	   	transition: all 1s;
+	   	font-size: 100%;
+	   	height: 60px;
+	}
+	.page2-header{
+		color: #bf0b30;
+		font-size: 120%;
+		padding-top: 30px;
+		text-align: center;
+	}
+	.container1{
+		width: 220px;
+		height: 470px;
+	}
+	.container2{
+		width: 220px;
+		height: 470px;
+	}
+	.container3{
+		width: 220px;
+		height: 470px;
+	}
+	.containers {
+		display: flex;
+	}
+	.container1-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+	.container1-text {
+		color: gray;
+		font-size: 100%;
+		margin-bottom: 30px;
+	}
+	.container2-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+	.container2-text {
+		color: gray;
+		font-size: 100%;
+	}
+	.container3-header {
+		padding: 10px;
+		font-size: 100%;
+	}
+	.container3-text {
+		color: gray;
+		font-size: 100%;
+		margin-bottom: 35px;
+	}
+	.banner {
+		margin-top: 150px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 50px;
+		background-image: linear-gradient(to right, #262e62, #bf0b30);
+		display: flex;
+		align-items: center;
+		height: 180px;
+		position: relative;
+		padding: 30px;
+	}
+
+	.banner-img{
+		position: absolute;
+		height: 160px;
+		width: 160px;
+		bottom: 0;
+		right: 29%;
+	}
+
+	.banner-header {
+		color: white;
+		font-size: 120%;
+	}
+
+	.banner-button {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		height: 50px;
+		font-size: 90%;
+		position: absolute;
+		top: auto;
+		right: 10%;
+		border: none;
+		transition: all 1s;
+	}
+
+	.banner-button:hover {
+		color: white;
+		background-color: #2f3d90;
+	}
+	.page3-header1{
+		color: #bf0b30;
+	/*	margin-left: 40px;*/
+	}
+
+	.page3-header-line {
+		width: 80px;
+	    height: 0px;
+	    border: none;
+	    border-top: 3px solid #bf0b30;
+	    border-radius: 8px;
+	    float: start;
+	/*    margin-left: 40px;*/
+	}
+
+	.page3-header2 {
+	/*	margin-left: 40px;*/
+		font-family: "Archivo Black";
+	}
+
+	.page3-container {
+		display: flex;
+		background-color: #f5f7ff;
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 100px;
+		padding-bottom: 50px;
+		justify-content: center;
+	}
+	.page3-right-div{
+		position: relative;
+		padding-top: 130px;
+	}
+	.page3-text {
+		color: #282828;
+		font-size: 105%;
+	}
+	.page3-text2 {
+		color: #bf0b30;
+		font-size: 150%;
+		font-family: "Archivo Black";
+	}
+	.page3-text-span {
+		color: black;
+		font-family: "Archivo Black";
+		margin-left: 27px;
+	}
+	.page3-text3 {
+		color: #222f64;
+		font-family: "Dancing Script";
+		font-size: 190%;
+		align-items: center;
+		padding-top: 10px;
+	}
+	.page3-text3-span {
+		padding-left: 20px;
+	}
+	.sub-div {
+		display: flex;
+		gap: 50px;
+	}
+	.page3-containers {
+		background-color: #f5f7ff;	
+		display: flex;
+		justify-content: center;
+		padding-bottom: 100px;
+	}
+	.page3-img{
+		height: 250px;
+		width: 250px;
+	}
+	.mini-container1 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container1:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container1-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container1-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;
+	}
+	.mini-container2 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container2:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container2-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container2-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;		
+	}
+	.mini-container3 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container3:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container3-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container3-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;		
+	}
+	.mini-container4 {
+		background-color: #ffffff;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		font-family: Lato;
+		transition: all;
+		border: 3px solid #ffffff;
+	}
+	.mini-container4:hover {
+		border-bottom: 3px solid #bf0b30;
+		cursor: pointer;
+	}
+	.mini-container4-quantity {
+		color: #2e2e2e;
+		font-family: Lato;
+	}
+	.mini-container4-img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;		
+	}
+	.banner2 {
+		background: url("banner2-background.jpg"), linear-gradient(to bottom, #262e62, #bf0b30);
+		height: 400px;
+		background-blend-mode: screen, difference, lighten;
+		text-align: center;
+		padding-top: 60px;
+		margin-bottom: 90px;
+		color: lightgray;
+	}
+	footer {
+		display: flex;
+		gap: 30px;
+		margin: auto;
+		justify-content: center;
+		margin-bottom: 60px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.footer-hr {
+		width: 70px;
+	    height: 0px;
+	    border: none;
+	    border-radius: 8px;
+	    border-top: 4px solid #4d0000;	
+	    margin-right: auto;
+	}
+
+	 .footer-headers {
+	 	font-family: "Archivo Black";
+	}
+
+	.column-li{
+	 	color: #424242;
+	 	line-height: 40px;
+	 	list-style: none;
+	}
+	     
+	.column-li::before{ 
+	    content: "\00BB"; 
+	}
+
+	.unihez-logo-footer {
+	 	margin-bottom: 50px;
+	 }
+
+	.column {
+		text-align: left;
+	 }
+
+	.column1 {
+		padding-right: 0px;
+	}
+
+	.footer-column1-text1 {
+		padding-bottom: 50px;
+	}
+
+	.column-li-text {
+		transition: all;
+	}
+
+	.column-li-text:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+
+	.footer-column1-text2 {
+		transition: all;
+	}
+
+	.footer-column1-text2:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+	.navbar-nav{
+		margin-bottom: 10px !important;
+		font-size: 100%;
+		gap: 10px;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	body{
+		position: relative;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.unihez-logo-nav{
+		width: 150px;
+		height: 50px;
+	}
+	.container-fluid {
+		display: flex;
+	}
+	.navbar-toggler {
+		position: absolute;
+		top: 5%;
+		right: 0;
+	}
+	.top-div {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.join-button {
+		background-color: #222f64;
+		border: none;
+	   	outline: none;
+	   	color: #ffffff;
+	   	padding-top: 20px;
+	   	padding-bottom: 20px;
+	   	padding-left: 40px;
+	   	padding-right: 40px;
+	   	transition: all 1s;
+	   	font-size: 120%;
+	   	height: 100px;
+	}
+	.top-left-div {
+		text-align: center;
+	}
+	.block-text-top-header{
+		font-family: "Archivo Black", sans-serif;
+		font-size: 230%;
+	}
+	.bg-img{
+		width: 400px;
+		height: 370px;
+		padding-left: 0px;
+	}
+	.cursive-text {
+	padding-top: 10px;
+	font-family: "Dancing Script";
+	color: #bf0b30;
+	font-size: 120%;
+	}
+	.page2-header{
+		color: #bf0b30;
+		font-size: 120%;
+		padding-top: 30px;
+		text-align: center;
+	}
+	.page2-header2 {
+		padding-top: 30px;
+		text-align: center;
+		padding-bottom: 40px;
+	}
+
+	.container1 {
+		border: 1px solid #ccc2c2;
+		padding: 30px;
+		width: 350px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container1:hover {
+		border-color: #bf0b30;
+
+		.container1-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container1-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container1-header {
+		padding: 10px;
+	}
+
+	.container1-text {
+		color: gray;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.container2 {
+		border: 1px solid #ccc2c2;
+		padding: 30px;
+		width: 350px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container2:hover {
+		border-color: #bf0b30;
+
+		.container2-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container2-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container2-header {
+		padding: 10px;
+	}
+
+	.container2-text {
+		color: gray;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.container3 {
+		border: 1px solid #ccc2c2;
+		padding: 30px;
+		width: 350px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container3:hover {
+		border-color: #bf0b30;
+
+		.container3-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container3-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container3-header {
+		padding: 10px;
+	}
+
+	.container3-text {
+		color: gray;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.containers {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 30px;
+		justify-content: center;
+	}
+	.banner {
+		margin-top: 30px;
+		background-image: linear-gradient(to right, #262e62, #bf0b30);
+		height: 300px;
+		width: 90%;
+		display: flex;
+		margin-left: 10px;
+		position: relative;
+	}
+	.banner-img{
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		height: 180px;
+		width: 210px;
+		margin: auto;
+	}
+	.banner-header {
+		color: white;
+		font-size: 120%;
+		margin-bottom: auto;
+	}
+	.banner-button {
+		height: 50px;
+		width: 160px;
+		font-size: 110%;
+		transition: all 1s;
+		position: absolute;
+		left: 10%;
+	}
+	.banner-button:hover {
+		color: white;
+		background-color: #2f3d90;
+	}
+	.page3-container {
+		display: flex;
+		flex-wrap: wrap;
+		background-color: #f5f7ff;
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 100px;
+		padding-bottom: 50px;
+		justify-content: center;
+	}
+	.page3-text {
+		color: #282828;
+		font-size: 105%;
+		text-align: center;
+	}
+	.page3-text2 {
+		color: #bf0b30;
+		font-size: 120%;
+		font-family: "Archivo Black";
+		text-align: center;
+	}	
+	.page3-text-span {
+		color: black;
+		font-family: "Archivo Black";
+		margin-left: 27px;
+	}
+	.page3-text3 {
+		color: #222f64;
+		font-family: "Dancing Script";
+		font-size: 190%;
+		align-items: center;
+		padding-top: 10px;
+	}
+	.page3-text3-span {
+		padding-left: 20px;
+	}
+
+	.sub-div {
+		display: flex;
+		gap: 20px;
+	}
+	.page3-img{
+		height: 300px;
+		width: 300px;
+	}
+	.page3-header1{
+		color: #bf0b30;
+		text-align: center;
+	}
+	.page3-header-line {
+		width: 80px;
+	    height: 0px;
+	    border: none;
+	    border-top: 3px solid #bf0b30;
+	    border-radius: 8px;
+	    margin: auto;
+	    margin-bottom: 20px;
+	}
+	.page3-header2 {
+		font-family: "Archivo Black";
+		text-align: center;
+	}
+	.column2 {
+		display: none;
+	}
+	.column3 {
+		display: none;
+	}
+	.banner2 {
+		background: url("banner2-background.jpg"), linear-gradient(to bottom, #262e62, #bf0b30);
+		height: 510px;
+		background-blend-mode: screen, difference, lighten;
+		text-align: center;
+		padding-top: 120px;
+		margin-bottom: 50px;
+	}
+	footer {
+		display: flex;
+		flex-wrap: wrap;
+		margin-bottom: 30px;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+		gap: 0px;
+	}
+	.footer-hr {
+		display: none;
+	}
+	.footer-headers {
+	 	font-family: "Archivo Black";
+	}
+	.column-li{
+ 		color: #424242;
+ 		line-height: 40px;
+ 		list-style: none;
+	}
+	.column-li::before{ 
+    	content: "\00BB"; 
+	}
+	.unihez-logo-footer {
+ 		margin-bottom: 20px;
+ 		width: 300px;
+ 	}
+	.column1 {
+		padding-right: 0px;
+		width: 100%;
+		text-align: center;
+	}
+	.column4 {
+		width: 100%;
+		text-align: center;
+	}
+	.footer-column1-text1 {
+		padding-bottom: 0px;
+		font-size: 120%;
+	}
+
+	.column-li-text {
+		transition: all;
+	}
+
+	.column-li-text:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+	strong {
+		font-size: 120%;
+	}
+	p {
+		font-size: 120%;
+	}
+	.footer-column1-text2 {
+		transition: all;
+	}
+	.footer-headers{
+		font-size: 150%;
+	}
+	.footer-column1-text2:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+	.navbar-nav{
+		margin-bottom: 10px !important;
+		font-size: 100%;
+		gap: 10px;
+	}
+}
+
+@media screen and (max-width: 380px) {
+	body{
+		position: relative;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.unihez-logo-nav{
+		width: 150px;
+		height: 50px;
+	}
+	.container-fluid {
+		display: flex;
+	}
+	.navbar-toggler {
+		position: absolute;
+		top: 5%;
+		right: 0;
+	}
+	.top-div {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.join-button {
+		background-color: #222f64;
+		border: none;
+	   	outline: none;
+	   	color: #ffffff;
+	   	padding-top: 20px;
+	   	padding-bottom: 20px;
+	   	padding-left: 40px;
+	   	padding-right: 40px;
+	   	transition: all 1s;
+	   	font-size: 120%;
+	   	height: 100px;
+	}
+	.top-left-div {
+		text-align: center;
+	}
+	h1.block-text-top-header{
+		font-family: "Archivo Black", sans-serif;
+		font-size: 170%;
+	}
+	img.bg-img{
+		width: 350px;
+		height: 330px;
+		padding-left: 0px;
+	}
+	h2.cursive-text {
+		padding-top: 10px;
+		font-family: "Dancing Script";
+		color: #bf0b30;
+		font-size: 170%;
+	}
+	.page2-header{
+		color: #bf0b30;
+		font-size: 120%;
+		padding-top: 30px;
+		text-align: center;
+	}
+	.banner {
+		margin-top: 30px;
+		background-image: linear-gradient(to right, #262e62, #bf0b30);
+		height: 300px;
+		width: 90%;
+		display: flex;
+		margin-left: 10px;
+		position: relative;
+	}
+	img.banner-img{
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		height: 150px;
+		width: 180px;
+		margin: auto;
+	}
+	strong.banner-header {
+		color: white;
+		font-size: 110%;
+		margin-bottom: auto;
+	}
+	banner.banner-button {
+		height: 50px;
+		width: 160px;
+		font-size: 110%;
+		transition: all 1s;
+		position: absolute;
+		left: 10%;
+	}
+	.banner-button:hover {
+		color: white;
+		background-color: #2f3d90;
+	}
+	.page3-container {
+		display: flex;
+		flex-wrap: wrap;
+		background-color: #f5f7ff;
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 100px;
+		padding-bottom: 50px;
+		justify-content: center;
+	}
+	.page3-text {
+		color: #282828;
+		font-size: 105%;
+		text-align: center;
+	}
+	.page3-text2 {
+		color: #bf0b30;
+		font-size: 120%;
+		font-family: "Archivo Black";
+		text-align: center;
+	}	
+	.page3-text-span {
+		color: black;
+		font-family: "Archivo Black";
+		margin-left: 27px;
+	}
+	.page3-text3 {
+		color: #222f64;
+		font-family: "Dancing Script";
+		font-size: 190%;
+		align-items: center;
+		padding-top: 10px;
+	}
+	.page3-text3-span {
+		padding-left: 20px;
+	}
+
+	.sub-div {
+		display: flex;
+		gap: 20px;
+	}
+	.page3-img{
+		height: 300px;
+		width: 300px;
+	}
+	.page3-header1{
+		color: #bf0b30;
+		text-align: center;
+	}
+	.page3-header-line {
+		width: 80px;
+	    height: 0px;
+	    border: none;
+	    border-top: 3px solid #bf0b30;
+	    border-radius: 8px;
+	    margin: auto;
+	    margin-bottom: 20px;
+	}
+	.page3-header2 {
+		font-family: "Archivo Black";
+		text-align: center;
+	}
+	.column2 {
+		display: none;
+	}
+	.column3 {
+		display: none;
+	}
+	.banner2 {
+		background: url("banner2-background.jpg"), linear-gradient(to bottom, #262e62, #bf0b30);
+		height: 510px;
+		background-blend-mode: screen, difference, lighten;
+		text-align: center;
+		padding-top: 120px;
+		margin-bottom: 50px;
+	}
+	footer {
+		display: flex;
+		flex-wrap: wrap;
+		text-align: center;
+		justify-content: center;
+		margin-bottom: 30px;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+		gap: 0px;
+	}
+	.footer-hr {
+		display: none;
+	}
+	.footer-headers {
+	 	font-family: "Archivo Black";
+	}
+	.column-li{
+ 		color: #424242;
+ 		line-height: 40px;
+ 		list-style: none;
+	}
+	.column-li::before{ 
+    	content: "\00BB"; 
+	}
+	.unihez-logo-footer {
+ 		margin-bottom: 20px;
+ 	}
+	.column {
+		text-align: left;
+	 }
+	.column1 {
+		padding-right: 0px;
+	}
+	.footer-column1-text1 {
+		padding-bottom: 0px;
+	}
+
+	.column-li-text {
+		transition: all;
+	}
+
+	.column-li-text:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+
+	.footer-column1-text2 {
+		transition: all;
+	}
+
+	.footer-column1-text2:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+	.navbar-nav{
+		margin-bottom: 10px !important;
+		font-size: 100%;
+		gap: 10px;
+	}
+}
+
+@media screen and (max-width: 290px) {
+	body{
+		position: relative;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.unihez-logo-nav{
+		width: 150px;
+		height: 50px;
+	}
+	.container-fluid {
+		display: flex;
+	}
+	.navbar-toggler {
+		position: absolute;
+		top: 5%;
+		right: 0;
+	}
+	.top-div {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.join-button {
+		background-color: #222f64;
+		border: none;
+	   	outline: none;
+	   	color: #ffffff;
+	   	padding-top: 5px;
+	   	padding-bottom: 5px;
+	   	padding-left: 20px;
+	   	padding-right: 20px;
+	   	transition: all 1s;
+	   	font-size: 120%;
+	   	height: 80px;
+	}
+	.top-left-div {
+		text-align: center;
+	}
+	.block-text-top-header{
+		font-family: "Archivo Black", sans-serif;
+		font-size: 230%;
+	}
+	img.bg-img{
+		width: 250px;
+		height: 230px;
+		padding-left: 0px;
+	}
+	.cursive-text {
+	padding-top: 10px;
+	font-family: "Dancing Script";
+	color: #bf0b30;
+	font-size: 70%;
+	}
+	.container1 {
+		border: 1px solid #ccc2c2;
+		padding: 20px;
+		width: 350px;
+		height: 430px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container1:hover {
+		border-color: #bf0b30;
+
+		.container1-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container1-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container1-header {
+		padding: 10px;
+	}
+
+	.container1-text {
+		color: gray;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.container2 {
+		border: 1px solid #ccc2c2;
+		padding: 20px;
+		width: 350px;
+		height: 420px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container2:hover {
+		border-color: #bf0b30;
+
+		.container2-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container2-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container2-header {
+		padding: 10px;
+	}
+
+	.container2-text {
+		color: gray;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.container3 {
+		border: 1px solid #ccc2c2;
+		padding: 20px;
+		width: 350px;
+		height: 480px;
+		text-align: center;
+		transition: all 1s;
+	}
+
+	.container3:hover {
+		border-color: #bf0b30;
+
+		.container3-img{
+			padding-bottom: 0px;
+			padding-top: 20px;
+		}
+	}
+
+	.container3-img {
+		padding: 10px;
+		transition: all 1s;
+	}
+
+	.container3-header {
+		padding: 10px;
+	}
+
+	.container3-text {
+		color: gray;
+	}
+
+	.detail-button {
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+		transition: all 1s;
+	}
+
+	.detail-button:hover {
+		background-color: #bf0b30;
+		color: #ffffff;
+	}
+
+	.containers {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 30px;
+		justify-content: center;
+	}
+	.page2-header{
+		color: #bf0b30;
+		font-size: 120%;
+		padding-top: 30px;
+		text-align: center;
+	}
+	.banner {
+		margin-top: 30px;
+		background-image: linear-gradient(to right, #262e62, #bf0b30);
+		height: 430px;
+		width: 90%;
+		display: flex;
+		justify-content: center;
+		margin-left: 10px;
+		position: relative;
+		text-align: center;
+	}
+	img.banner-img{
+/*		position: absolute;*/
+		bottom: 0;
+		right: 10px;
+		height: 180px;
+		width: 210px;
+		margin: auto;
+	}
+	.banner-header {
+		color: white;
+		font-size: 120%;
+		margin-bottom: auto;
+	}
+	.banner-button {
+		height: 60px;
+		width: 150px;
+		font-size: 110%;
+		transition: all 1s;
+		position: absolute;
+		left: 10%;
+		margin-left: 20px;
+	}
+	.banner-button:hover {
+		color: white;
+		background-color: #2f3d90;
+	}
+	.page3-container {
+		display: flex;
+		flex-wrap: wrap;
+		background-color: #f5f7ff;
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 100px;
+		padding-bottom: 50px;
+		justify-content: center;
+	}
+	.page3-text {
+		color: #282828;
+		font-size: 80%;
+		text-align: center;
+	}
+	.page3-text2 {
+		color: #bf0b30;
+		font-size: 120%;
+		font-family: "Archivo Black";
+		text-align: center;
+	}	
+	.page3-right-div{
+		padding-top: 20px;
+	}
+	.page3-text-span {
+		color: black;
+		font-family: "Archivo Black";
+		margin-left: 15px;
+	}
+	.page3-text3 {
+		color: #222f64;
+		font-family: "Dancing Script";
+		font-size: 190%;
+		align-items: center;
+		padding-top: 10px;
+	}
+	.page3-text3-span {
+		padding-left: 20px;
+	}
+
+	.sub-div {
+		display: flex;
+		gap: 10px;
+	}
+	.page3-img{
+		height: 250px;
+		width: 250px;
+	}
+	.page3-header1{
+		color: #bf0b30;
+		text-align: center;
+	}
+	.page3-header-line {
+		width: 80px;
+	    height: 0px;
+	    border: none;
+	    border-top: 3px solid #bf0b30;
+	    border-radius: 8px;
+	    margin: auto;
+	    margin-bottom: 20px;
+	}
+	.page3-header2 {
+		font-family: "Archivo Black";
+		text-align: center;
+	}
+	.column2 {
+		display: none;
+	}
+	.column3 {
+		display: none;
+	}
+	.banner2 {
+		background: url("banner2-background.jpg"), linear-gradient(to bottom, #262e62, #bf0b30);
+		height: 510px;
+		background-blend-mode: screen, difference, lighten;
+		text-align: center;
+		padding-top: 120px;
+		margin-bottom: 50px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	footer {
+		display: flex;
+		flex-wrap: wrap;
+		text-align: center;
+		justify-content: center;
+		margin-bottom: 30px;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+		gap: 0px;
+	}
+	.footer-hr {
+	display: none;
+	}
+	.footer-headers {
+	 	font-family: "Archivo Black";
+	}
+	.column-li{
+ 		color: #424242;
+ 		line-height: 40px;
+ 		list-style: none;
+	}
+	.column-li::before{ 
+    	content: "\00BB"; 
+	}
+	img.unihez-logo-footer {
+ 		margin-bottom: 20px;
+ 		width: 250px;
+ 		height: 80px;
+ 	}
+	.column {
+		text-align: left;
+	 }
+	.column1 {
+		padding-right: 0px;
+	}
+	.footer-column1-text1 {
+		padding-bottom: 0px;
+	}
+
+	.column-li-text {
+		transition: all;
+	}
+
+	.column-li-text:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+
+	.footer-column1-text2 {
+		transition: all;
+	}
+
+	.footer-column1-text2:hover {
+		cursor: pointer;
+		color: #950033;
+	}
+	.navbar-nav{
+		margin-bottom: 10px !important;
+		font-size: 100%;
+		gap: 10px;
+	}
+}
